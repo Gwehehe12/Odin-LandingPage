@@ -167,6 +167,10 @@ a {
     font-weight: bold;
 }
 
+.container-4 .button .sign-up2:hover {
+    background-color: #0d2f66;
+}
+
 .footer {
     display: flex;
     padding: 10px;
